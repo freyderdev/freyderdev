@@ -46,5 +46,5 @@ I'm a backend engineer with 10+ years of experience building reliable, scalable,
 
 ### 📫 Let's Connect
 
-- LinkedIn: [linkedin.com/in/freyderotalvaro](https://linkedin.com/in/freyderotalvaro)
-- Email: tu-correo@ejemplo.com
+- LinkedIn: [linkedin.com/in/freyderotalvaro]([https://linkedin.com/in/freyderotalvaro](https://www.linkedin.com/in/freyder-otalvaro-70484b73/))
+- Email: tu-freyder@hotmail.com
