@@ -20,7 +20,9 @@ I specialize in **microservices**, **reactive programming with WebFlux**, and **
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks:** Java, Spring Boot, WebFlux, JavaScript, ReactJs 
+**Languages & Frameworks:** 
+- Java with Spring Ecosystem (Spring Boot, Spring JDBC, Spring Security, WebFlux)
+- JavaScript, ReactJs 
 **Databases & Messaging:** PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ  
 **DevOps & Cloud:** Docker, Kubernetes, AWS (S3, EC2, Lambda), GitHub Actions  
 **Testing:** JUnit, Mockito, Postman,Oracle  
