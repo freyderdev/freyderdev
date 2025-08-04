@@ -19,13 +19,13 @@ I'm a backend engineer with 10+ years of experience building reliable, scalable,
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Java, JavaScript, SQL, Shell
+- **Languages:** Java☕
 - **Frameworks:** Spring Boot, WebFlux, React (basic)
-- **Databases:** PostgreSQL, MongoDB, Redis
+- **Databases:** PostgreSQL, MongoDB, Redis, Oracle
 - **Messaging:** Kafka, RabbitMQ
 - **DevOps & Cloud:** Docker, Kubernetes, AWS (S3, EC2, Lambda), GitHub Actions
 - **Testing:** JUnit, Mockito, Postman
-### 🛠 Tech Stack
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
