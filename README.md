@@ -42,7 +42,7 @@ I specialize in **microservices**, **reactive programming with WebFlux**, and **
 
 ### 📂 Highlight Projects
 - 🔹 [**spring-cloud-architecture**](https://github.com/freyderdev/spring-cloud-architecture)  
-  *Event-driven order processing with Kafka, Redis, MongoDB, and WebFlux.*
+  *Distributed microservices architecture with Spring Boot 3, Spring Cloud, Docker, and centralized security using OAuth2 and JWT. Includes service discovery, configuration management, tracing, and container orchestration..*
 
 - 🔹 [**worker**](https://github.com/freyderdev/worker)  
   *Event-driven order processing with Kafka, Redis, MongoDB, and WebFlux.*
