@@ -1,19 +1,19 @@
 <h1 align="center">👋 Hi, I'm Freyder Otálvaro</h1>
 
 <p align="center">
-  💻 Senior Java Developer | ☁️ AWS Learner | 🌍 Remote-friendly | 🇨🇴 Colombia
+  💻 Senior Software Engineer | Distributed Systems | Java | AWS | 🇨🇴 Colombia
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a backend engineer with 10+ years of experience building reliable, scalable, and clean systems using **Java** and **Spring Boot**.  
+I'm a Senior Software Engineer with 10+ years of experience designing and building distributed systems, cloud-native services, and scalable APIs using Java and the Spring ecosystem.
 I specialize in **microservices**, **reactive programming with WebFlux**, and **cloud integration**.
 
 - 🔧 Currently building event-driven systems with Kafka, Redis, and WebFlux  
 - 🧠 Studying AWS Solutions Architect Certification  
-- 📈 Improving my English to reach **B2 fluency** for global opportunities  
+- 📚 Currently learning Kotlin and preparing for AWS Solutions Architect Associate certification
 - ❤️ Passionate about **clean code**, **system design**, and **mentoring developers**  
 
 ---
@@ -22,6 +22,7 @@ I specialize in **microservices**, **reactive programming with WebFlux**, and **
 
 **Languages & Frameworks:** 
 - Java with Spring Ecosystem (Spring Boot, Spring JDBC, Spring Security, WebFlux)
+- Kotlin (Learning)
 - JavaScript, ReactJs
 
 **Databases & Messaging:** PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ  
@@ -42,10 +43,13 @@ I specialize in **microservices**, **reactive programming with WebFlux**, and **
 
 ### 📂 Highlight Projects
 - 🔹 [**spring-cloud-architecture**](https://github.com/freyderdev/spring-cloud-architecture)  
-  *Distributed microservices architecture with Spring Boot 3, Spring Cloud, Docker, and centralized security using OAuth2 and JWT. Includes service discovery, configuration management, tracing, and container orchestration..*
+  *Distributed microservices architecture with Spring Boot 3, Spring Cloud, Docker, and centralized security using OAuth2 and JWT. Includes service discovery, configuration management, tracing, and container orchestration.*
 
 - 🔹 [**worker**](https://github.com/freyderdev/worker)  
   *Event-driven order processing with Kafka, Redis, MongoDB, and WebFlux.*
+
+- 🔹 [**react-invoice-manager**](https://github.com/freyderdev/React-Invoice-Manager)  
+  *Interactive billing app built with React.*
 
 - 🔹 [**spring-boot-webflux-apirest**](https://github.com/freyderdev/spring-boot-webflux-apirest)  
   *Reactive CRUD API with Spring Boot and MongoDB.*
@@ -53,8 +57,7 @@ I specialize in **microservices**, **reactive programming with WebFlux**, and **
 - 🔹 [**data-structures-algorithms-java**](https://github.com/freyderdev/data-structures-algorithms-java)  
   *Classic algorithms and coding problem solutions in Java.*
 
-- 🔹 [**react-invoice-manager**](https://github.com/freyderdev/React-Invoice-Manager)  
-  *Interactive billing app built with React.*
+
 
 ---
 
